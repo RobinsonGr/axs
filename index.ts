@@ -5,6 +5,7 @@ const path = require('path');
 
 // Define the HTML content
 const htmlContent = `
+const htmlContent = `
 <!DOCTYPE html>
 <html lang="en">
 <head>
